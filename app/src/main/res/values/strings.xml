@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecordExcel</string>
+        <string name="create_excel">Create Excel</string>
+        <string name="your_text_here">Your text here ...</string>
+
+
+</resources>
